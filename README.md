@@ -23,8 +23,8 @@ Simple QR code component using HTML and CSS.
 
 ### Links
 
-- Solution URL: (https://github.com/BarboraBrhlova/QR-Code-Frontend-Mentor)
-- Live Site URL: (https://barborabrhlova.github.io/QR-Code-Frontend-Mentor/)
+- Solution URL: https://github.com/BarboraBrhlova/QR-Code-Frontend-Mentor
+- Live Site URL: https://barborabrhlova.github.io/QR-Code-Frontend-Mentor
 
 ## My process
 
@@ -43,8 +43,8 @@ Simple QR code component using HTML and CSS.
 
 ### Useful resources
 
-- (https://www.w3schools.com/) 
-- (https://www.udemy.com/) 
+- https://www.w3schools.com
+- https://www.udemy.com
 
 ## Author
 
