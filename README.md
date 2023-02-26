@@ -24,7 +24,7 @@ Simple QR code component using HTML and CSS.
 ### Links
 
 - Solution URL: (https://github.com/BarboraBrhlova/QR-Code-Frontend-Mentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://barborabrhlova.github.io/QR-Code-Frontend-Mentor/)
 
 ## My process
 
